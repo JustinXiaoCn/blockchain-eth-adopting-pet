@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/scottish-terrier.jpeg",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Husky One",
+    "picture": "images/husky.jpg",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Nanshan, Shenzhen"
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/french-bulldog.jpeg",
+    "age": 2,
+    "breed": "French Bulldog",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "picture": "images/boxer.jpeg",
+    "age": 2,
+    "breed": "Boxer",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Labrador",
+    "picture": "images/labrador.jpg",
+    "age": 2,
+    "breed": "French Bulldog",
+    "location": "Futian, Shenzhen"
+  },
+  {
+    "id": 5,
+    "name": "Collie",
+    "picture": "images/scottish-rough-collie.jpg",
+    "age": 3,
+    "breed": "French Bulldog",
+    "location": "Luohu, Shenzhen"
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "picture": "images/golden-retriever.jpeg",
+    "age": 3,
+    "breed": "Golden Retriever",
+    "location": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "Sheepdog",
+    "picture": "images/shetland-sheepdog.jpg",
+    "age": 3,
+    "breed": "Golden Retriever",
+    "location": "Baoan, Shenzhen"
+  }
+]
