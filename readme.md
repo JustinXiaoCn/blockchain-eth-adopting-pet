@@ -107,13 +107,11 @@
 ![metamask-finished](doc/metamask-finished.png)
 
 ## 注意点
-- 目前，testrpc如果有活跃连接，无法响应ctrc + c关闭，需要断开MetaMask的连接后，比如将MetaMask连接到Kovan等网络，ctrc + c在对应testrpc运行的终端才有效。
-- 智能合约的信息都是保存区块链网络中，如果关闭对应的网络，所有信息都消失，比如关闭testrpc。部署在kovan中，可以保持长久的保存。
+- 目前，testrpc有活跃连接时，无法响应ctrc + c关闭，需要在断开MetaMask的连接后才行。比如将MetaMask连接到Kovan等网络，再在testrpc终端进行ctrc + c才有效。
+- 智能合约的信息都是保存区块链网络中，如果关闭对应的网络，所有信息都消失，比如关闭testrpc。部署在kovan中，可以保存长久。
 
 ## 打赏些ETH
 
-觉得有帮助， 打赏ETH到下面账号，推荐使用imToken轻钱包：
-> 0xb8cBDCcb370789a4b3645Ab3C3992D1597c8B15B
-
+觉得有帮助， 打赏ETH到下面账号，推荐使用imToken轻钱包：**0xb8cBDCcb370789a4b3645Ab3C3992D1597c8B15B**
 
 ![eth-account](doc/eth-account.jpg)
