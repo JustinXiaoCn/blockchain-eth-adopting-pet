@@ -116,4 +116,4 @@
 > 0xb8cBDCcb370789a4b3645Ab3C3992D1597c8B15B
 
 
-![eth-account](doc/eth-account.png)
+![eth-account](doc/eth-account.jpg)
